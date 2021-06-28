@@ -5,6 +5,7 @@ In a previous course you used SQL methods to collect data for analysis and to su
 
 
 
+
 To complete this assessment, you will use raw data from the industry of your choice and prepare the data set for analysis. You will also create visualizations and deliver a clean data set ready for exploratory analysis.
 
 # SCENARIO
